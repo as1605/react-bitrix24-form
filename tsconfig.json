@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es5",
+      "lib": ["es6", "dom"],
+      "sourceMap": true,
+      "allowJs": true,
+      "jsx": "react-jsx",
+      "outDir": "./lib",
+      "moduleResolution": "node",
+      "rootDir": "src",
+      "declaration": true,
+      "strict": true
+    },
+    "include": ["src"],
+    "exclude": [
+      "node_modules",
+      "build",
+    ],
+    "types": [
+      "typePatches"
+    ]
+  }

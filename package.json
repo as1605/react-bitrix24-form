@@ -1,19 +1,18 @@
 {
   "name": "react-bitrix24-form",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "repository": "https://github.com/as1605/react-bitrix24-form.git",
+  "author": "as1605 <1605.aditya.singh@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/as1605/react-bitrix24-form.git"
-  },
-  "author": "as1605",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/as1605/react-bitrix24-form/issues"
-  },
-  "homepage": "https://github.com/as1605/react-bitrix24-form#readme"
+  "devDependencies": {
+    "@types/react": "^18.2.72",
+    "typescript": "^5.4.3"
+  }
 }
