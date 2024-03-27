@@ -1,15 +1,20 @@
 {
   "name": "react-bitrix24-form",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "lib/index.js",
   "repository": "https://github.com/as1605/react-bitrix24-form.git",
   "author": "as1605 <1605.aditya.singh@gmail.com>",
   "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "private": false,
   "peerDependencies": {
     "react": "^18.2.0"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepack": "tsc"
   },
   "devDependencies": {
     "@types/react": "^18.2.72",
