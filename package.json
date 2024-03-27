@@ -1,6 +1,6 @@
 {
   "name": "react-bitrix24-form",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "repository": "https://github.com/as1605/react-bitrix24-form.git",
   "author": "as1605 <1605.aditya.singh@gmail.com>",
@@ -19,5 +19,12 @@
   "devDependencies": {
     "@types/react": "^18.2.72",
     "typescript": "^5.4.3"
-  }
+  },
+  "keywords": [
+    "react",
+    "bitrix24",
+    "form",
+    "jquery",
+    "nextjs"
+  ]
 }

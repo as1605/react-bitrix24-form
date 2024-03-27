@@ -18,7 +18,10 @@ function App() {
         >
           Learn React
         </a>
-        <Bitrix24Form src='https://cdn.bitrix24.com/b16700425/crm/form/loader_55.js' data="inline/55/e23xlv" />
+        <Bitrix24Form
+          src='https://cdn.bitrix24.com/b16700425/crm/form/loader_55.js'
+          data="inline/55/e23xlv"
+        />
       </header>
     </div>
   );
