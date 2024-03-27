@@ -1,0 +1,19 @@
+{
+  "name": "react-bitrix24-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as1605/react-bitrix24-form.git"
+  },
+  "author": "as1605",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/as1605/react-bitrix24-form/issues"
+  },
+  "homepage": "https://github.com/as1605/react-bitrix24-form#readme"
+}
