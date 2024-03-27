@@ -1,2 +1,1 @@
-import { BitRix24Form } from "./component/bitrix24form";
-export { BitRix24Form };
+export { Bitrix24Form } from "./component/bitrix24form";

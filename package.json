@@ -1,6 +1,6 @@
 {
   "name": "react-bitrix24-form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "repository": "https://github.com/as1605/react-bitrix24-form.git",
   "author": "as1605 <1605.aditya.singh@gmail.com>",
